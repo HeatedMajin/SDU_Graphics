@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Graphic.cpp
+e:\vsworkspace\graphic\graphic\graphic.cpp(161): error C2065: “GLUT_WHEEL_UP”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(161): error C2065: “GLUT_WHEEL_DOWN”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(202): error C2065: “GLUT_WHEEL_UP”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(212): error C2065: “GLUT_WHEEL_DOWN”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(236): error C2065: “GLUT_WHEEL_UP”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(240): error C2065: “GLUT_WHEEL_DOWN”: 未声明的标识符
