@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  Graphic_lab22.cpp
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(299): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(300): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(304): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(308): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(309): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(400): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(400): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(434): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(437): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(438): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab22.cpp(439): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutInit，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 "void __cdecl GLUTMainLoop(void)" (?GLUTMainLoop@@YAXXZ) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutCreateWindow，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutDestroyWindow，该符号在函数 "void __cdecl GLUTStop(void)" (?GLUTStop@@YAXXZ) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，该符号在函数 "void __cdecl GLUTResize(int,int)" (?GLUTResize@@YAXHH@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，该符号在函数 "void __cdecl GLUTRedraw(void)" (?GLUTRedraw@@YAXXZ) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutSpecialFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutMotionFunc，该符号在函数 "void __cdecl GLUTInit(int *,char * *)" (?GLUTInit@@YAXPEAHPEAPEAD@Z) 中被引用
+Graphic_lab22.obj : error LNK2019: 无法解析的外部符号 __imp_glutGetModifiers，该符号在函数 "void __cdecl GLUTKeyboard(unsigned char,int,int)" (?GLUTKeyboard@@YAXEHH@Z) 中被引用
+E:\VistualStudio2017\VC\Auxiliary\VS\lib\x64\freeglut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\vsWorkSpace\Graphic\x64\Debug\Graphic_lab22.exe : fatal error LNK1120: 17 个无法解析的外部命令

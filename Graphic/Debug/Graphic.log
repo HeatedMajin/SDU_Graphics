@@ -1,0 +1,11 @@
+﻿E:\VistualStudio2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Graphic.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  Graphic.cpp
+e:\vsworkspace\graphic\graphic\graphic.cpp(100): warning C4305: “参数”: 从“double”到“GLclampf”截断
+e:\vsworkspace\graphic\graphic\graphic.cpp(118): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vsworkspace\graphic\graphic\graphic.cpp(161): error C2065: “GLUT_WHEEL_UP”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(161): error C2065: “GLUT_WHEEL_DOWN”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(202): error C2065: “GLUT_WHEEL_UP”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(212): error C2065: “GLUT_WHEEL_DOWN”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(236): error C2065: “GLUT_WHEEL_UP”: 未声明的标识符
+e:\vsworkspace\graphic\graphic\graphic.cpp(240): error C2065: “GLUT_WHEEL_DOWN”: 未声明的标识符

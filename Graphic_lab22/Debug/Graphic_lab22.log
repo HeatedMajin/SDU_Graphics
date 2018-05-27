@@ -1,0 +1,14 @@
+﻿E:\VistualStudio2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Graphic_lab22.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  Graphic_lab2.cpp
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(196): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(197): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(200): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(201): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(204): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(247): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(247): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab22\graphic_lab2.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Graphic_lab22.vcxproj -> E:\vsWorkSpace\Graphic\Debug\Graphic_lab2.exe

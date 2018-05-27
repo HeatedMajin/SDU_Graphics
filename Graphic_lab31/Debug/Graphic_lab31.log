@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  Graphic_lab31.cpp
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(240): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(254): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(279): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(391): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(392): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(395): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(396): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(399): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(442): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(442): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(472): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(473): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vsworkspace\graphic\graphic_lab31\graphic_lab31.cpp(474): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Graphic_lab31.vcxproj -> E:\vsWorkSpace\Graphic\Debug\Graphic_lab31.exe
